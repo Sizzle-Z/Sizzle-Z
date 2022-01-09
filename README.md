@@ -11,3 +11,6 @@ On my github, you will find many things to help protect your FiveM server from m
 I also may post some other stuff on my github like small things I have made in other coding languages such as python, and maybe JavaScript. This wont happen to often though.
 
 Alright! Thanks for looking at my profile! You can go check out my repo's at https://github.com/Sizzle-Z?tab=repositories
+
+
+Youtube: youtube.com/Sizzle0
