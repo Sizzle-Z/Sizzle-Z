@@ -1,1 +1,1 @@
-<img src="https://github.com/Sizzle-Z/Sizzle-Z/blob/main/standard.png?raw=true" width=70% height=50%>
+<img src="https://github.com/Sizzle-Z/Sizzle-Z/blob/main/standard.png?raw=true" width=100% height=30%>
