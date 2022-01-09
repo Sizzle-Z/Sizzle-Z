@@ -2,3 +2,5 @@
 
 
  <h1 style="font-size:10vw">Welcome to Sizzle's Github!</h1> 
+
+Hi, I'm Sizzle. I am a novice Lua developer, and I usually develop for FiveM. I am apart of 2 main development teams. The first one being SC Development, which you can join at discord.gg/scdev, and the second one being Cyclone Development, which you can join at discord.gg/cyclonedev.
