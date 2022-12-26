@@ -1,8 +1,4 @@
-
-
-![Visitor Count](https://profile-counter.glitch.me/Sizzle-Z/count.svg)
-
- <h1 style="font-size:10vw">Welcome to Sizzle's Github!</h1> 
+ <h1 style="font-size:10vw">Welcome to my Github!</h1> 
 
 ↳ Hi, I'm Sizzle. I am a experienced Lua developer, and I usually develop for FiveM.
 
