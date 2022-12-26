@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/927378966988353546/1056748196484890664/sizzle.png" width="1000" height="340">
+
 
 ![Visitor Count](https://profile-counter.glitch.me/Sizzle-Z/count.svg)
 
